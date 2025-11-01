@@ -94,7 +94,7 @@ Then open your browser and go to:
 ‍ Developer
 
 Muhammed Saidali S
- Full Stack Developer & Music Artist
+ Full Stack Developer 
  Kerala, India
 
   
